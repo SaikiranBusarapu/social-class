@@ -1,1 +1,3 @@
 This is a class file in master brach;
+This is the second line of code in class.txt in qa;
+this code in executed in qa branch
