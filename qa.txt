@@ -1,2 +1,3 @@
 This is the first line of code in qa.txt in qa branch;
 This is the code added when this file is in stash
+added from master branch
